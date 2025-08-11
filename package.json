@@ -1,0 +1,14 @@
+{
+  "name": "lerusb",
+  "version": "1.0.0",
+  "description": "A simple tool to manage USB drives",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "drivelist": "^12.0.2",
+    "play-sound": "^1.1.6",
+    "say": "^0.16.0"
+  }
+}
